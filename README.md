@@ -46,6 +46,6 @@ Before you begin, ensure you have the following installed on your system:
 *   `src/app/globals.css`: Contains global styles and Tailwind CSS directives.
 *   `tailwind.config.js`: Tailwind CSS configuration file, including the color scheme.
 *   `public/images/`: Contains all the Excalidraw-style visuals used in the course.
-*   Other files and folders are standard Next.js project structure.
+*   Other files and folders are standard Next.js project structure. Test 123
 
 If you encounter any issues, please ensure Node.js and pnpm are correctly installed and that all dependencies were installed without errors.
